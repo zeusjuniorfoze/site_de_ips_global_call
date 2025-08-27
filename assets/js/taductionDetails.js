@@ -355,3 +355,20 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
     }
   });
 });
+document.querySelector('.lang-btn').addEventListener('click', () => {
+  const menu = document.querySelector('.lang-menu');
+  menu.classList.toggle('show');
+});
+
+function changeLang(lang) {
+  // Affiche le préloader
+  document.getElementById("preloader").style.display = "flex";
+
+  // Petit délai pour simuler le chargement
+  setTimeout(() => {
+    setLanguage(lang); // ta fonction de traduction
+    document.getElementById("preloader").style.display = "none"; // cache le préloader
+    document.querySelector(".lang-menu").classList.remove("show"); // ferme le menu
+  }, 800); // 0.8s d’attente (ajuste comme tu veux)
+}
+
