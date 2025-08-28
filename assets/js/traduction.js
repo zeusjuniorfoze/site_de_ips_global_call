@@ -111,7 +111,7 @@ const translations = {
     contact_desc:
       "Prenez contact pour discuter de vos besoins ou demander un devis personnalisé.",
     contact_address_title: "Adresse",
-    contact_address: "Douala, Cameroun",
+    contact_address: "Yaounde, Cameroun",
     contact_phone_title: "Téléphone",
     contact_phone: "+237 123 456 789",
     contact_whatsapp_title: "WhatsApp",
@@ -241,7 +241,7 @@ const translations = {
     contact_desc:
       "Get in touch to discuss your needs or request a personalized quote.",
     contact_address_title: "Address",
-    contact_address: "Douala, Cameroon",
+    contact_address: "Yaounde, Cameroon",
     contact_phone_title: "Phone",
     contact_phone: "+237 123 456 789",
     contact_whatsapp_title: "WhatsApp",

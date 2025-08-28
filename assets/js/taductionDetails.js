@@ -151,7 +151,7 @@ const translations = {
     service_contact_cta: "Request a Quote",
     service_whatsapp_cta: "Contact Us via WhatsApp",
     contact_address_title: "Address",
-    contact_address: "Douala, Cameroon",
+    contact_address: "Yaounde, Cameroon",
     contact_phone_title: "Phone",
     contact_phone: "+237 123 456 789",
     contact_whatsapp_title: "WhatsApp",
