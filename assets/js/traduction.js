@@ -37,14 +37,6 @@ const translations = {
     about_mission_item_2: "Équipe expérimentée et dédiée.",
     about_mission_item_3: "Technologie de pointe.",
     about_cta: "Contactez-nous",
-    stats_subtitle: "Statistiques",
-    stats_title: "Nos Réalisations",
-    stats_desc:
-      "Les chiffres qui témoignent de notre expertise en télécommunications.",
-    stats_clients: "Clients",
-    stats_campaigns: "Campagnes réalisées",
-    stats_support_hours: "Heures de support",
-    stats_collaborators: "Collaborateurs",
     services_subtitle: "Services",
     services_title: "Nos Services",
     services_desc:
